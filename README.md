@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Welcome+to+Hritik's+Github+Profile!)](https://git.io/typing-svg)
+
 ### Hola, I'm Hritik Bakshi 👋
 
 - 🔭 I’m currently working on some side Projects for my Portfolio
