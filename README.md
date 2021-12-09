@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Hritik's+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+HRITIK's+GitHub+Profile!)](https://git.io/typing-svg)
 
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/hritikbakshi/" target="_blank"> DIGANTA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ### Hola, I'm Hritik Bakshi 👋
 
