@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=40&vCenter=true&lines=Welcome+to+Hritik's+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Welcome+to+Hritik's+Github+Profile)](https://git.io/typing-svg)
 
 ### Hola, I'm Hritik Bakshi 👋
 
