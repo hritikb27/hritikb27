@@ -4,7 +4,6 @@
 
 ### Hola, I'm Hritik Bakshi 👋
 
-- 🔭 I’m currently working at Fluid AI
 - 🌱 I currently work with MERN Stack & Typescript
 - 👯 I’m looking to collaborate on ReactJS or Web3 Projects
 - 🤔 I’m constantly looking for opportunities to grow as a developer
